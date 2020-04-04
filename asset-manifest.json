@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cursor-contacts/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cursor-contacts/static/js/main.a1a4896f.chunk.js",
+    "main.js.map": "/cursor-contacts/static/js/main.a1a4896f.chunk.js.map",
+    "runtime-main.js": "/cursor-contacts/static/js/runtime-main.19a9581d.js",
+    "runtime-main.js.map": "/cursor-contacts/static/js/runtime-main.19a9581d.js.map",
+    "static/css/2.63c3801d.chunk.css": "/cursor-contacts/static/css/2.63c3801d.chunk.css",
+    "static/js/2.0b3c91c5.chunk.js": "/cursor-contacts/static/js/2.0b3c91c5.chunk.js",
+    "static/js/2.0b3c91c5.chunk.js.map": "/cursor-contacts/static/js/2.0b3c91c5.chunk.js.map",
+    "index.html": "/cursor-contacts/index.html",
+    "precache-manifest.7896c65bfa712dbb88b1b12c9b51423d.js": "/cursor-contacts/precache-manifest.7896c65bfa712dbb88b1b12c9b51423d.js",
+    "service-worker.js": "/cursor-contacts/service-worker.js",
+    "static/css/2.63c3801d.chunk.css.map": "/cursor-contacts/static/css/2.63c3801d.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/cursor-contacts/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.0b3c91c5.chunk.js.LICENSE.txt": "/cursor-contacts/static/js/2.0b3c91c5.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/cursor-contacts/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a9581d.js",
+    "static/css/2.63c3801d.chunk.css",
+    "static/js/2.0b3c91c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a1a4896f.chunk.js"
+  ]
+}
